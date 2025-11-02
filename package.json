@@ -27,7 +27,7 @@
     "graceful-fs": "~2.0.1",
     "through": "~2.3.4",
     "map-stream": "~0.1.0",
-    "semver": "~2.2.1"
+    "semver": "~7.7.3"
   },
   "devDependencies": {
     "mocha": "~1.17.0",
